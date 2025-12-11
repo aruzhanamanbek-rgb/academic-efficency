@@ -1,0 +1,8 @@
+streamlit==1.40.0
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
+python-dateutil
+
